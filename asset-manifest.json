@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/akashlink/static/css/main.7656dda7.css",
-    "main.js": "/akashlink/static/js/main.280c788c.js",
+    "main.js": "/akashlink/static/js/main.cb21fe9b.js",
     "static/js/787.3fa59a39.chunk.js": "/akashlink/static/js/787.3fa59a39.chunk.js",
     "static/media/bg.png": "/akashlink/static/media/bg.6365a21e2b9043c53ed7.png",
     "index.html": "/akashlink/index.html",
     "main.7656dda7.css.map": "/akashlink/static/css/main.7656dda7.css.map",
-    "main.280c788c.js.map": "/akashlink/static/js/main.280c788c.js.map",
+    "main.cb21fe9b.js.map": "/akashlink/static/js/main.cb21fe9b.js.map",
     "787.3fa59a39.chunk.js.map": "/akashlink/static/js/787.3fa59a39.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7656dda7.css",
-    "static/js/main.280c788c.js"
+    "static/js/main.cb21fe9b.js"
   ]
 }
